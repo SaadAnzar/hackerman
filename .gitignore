@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 
-.python-version
+myvenv/
+venv/
 .env
 test.py
